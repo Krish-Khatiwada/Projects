@@ -1,0 +1,46 @@
+body {
+    font-size: 3.3vh;
+}
+
+header {
+    background-color: lightgray;
+    text-align: center;
+    padding: 10px;
+    margin: 0px 0px 10px 0px;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.bio {
+    background-color: lightgray;
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+}
+
+.work {
+    background-color: lightgray;
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+}
+
+
+.project {
+    height: 200px;
+    width: 200px;
+    border: 1px solid gray;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+}
+
+footer {
+    background-color: lightgray;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
